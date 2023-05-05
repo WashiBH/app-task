@@ -23,6 +23,8 @@ tmp/
 *.swp
 *~.nib
 local.properties
+application.properties
+application.yml
 .settings/
 .loadpath
 .recommenders
